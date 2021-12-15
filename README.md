@@ -1,4 +1,4 @@
-# ![tabmerger logo](./public/images/logo-full-rescale.PNG)
+# ![tabmerger logo](./public/images/logo-full-rescale.PNG) 
 
 [![Code Quality][codefactor]](https://www.codefactor.io/repository/github/lbragile/tabmerger) [![Build][build status]](https://github.com/lbragile/TabMerger/actions) [![Forks][gh forks]](https://github.com/lbragile/TabMerger) [![Stars][gh stars]](https://github.com/lbragile/TabMerger) [![Contributors][gh contributors]](https://github.com/lbragile/TabMerger) [![Release][release]](https://github.com/lbragile/TabMerger/releases/tag/v2.0.0) [![Chrome Users][chromeusers]](https://chrome.google.com/webstore/detail/tabmerger/inmiajapbpafmhjleiebcamfhkfnlgoc) [![Chrome Rating][chromerating]](https://chrome.google.com/webstore/detail/tabmerger/inmiajapbpafmhjleiebcamfhkfnlgoc) [![Firefox Users][firefoxusers]](https://addons.mozilla.org/en-US/firefox/addon/tabmerger/) [![Firefox Rating][firefoxrating]](https://addons.mozilla.org/en-US/firefox/addon/tabmerger/) [![Code Size][code size]](https://github.com/lbragile/TabMerger/) [![License][license]](https://github.com/lbragile/TabMerger/blob/master/LICENSE.md)
 
