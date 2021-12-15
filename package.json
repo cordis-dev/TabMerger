@@ -76,7 +76,7 @@
     "extends": "./config/.babelrc.json"
   },
   "eslintConfig": {
-    "extends": "./config/.eslintrc.js"
+    "extends": "./config/.eslintrc.json"
   },
   "stylelint": {
     "extends": "./config/.stylelintrc.json"
